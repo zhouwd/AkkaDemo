@@ -1,4 +1,4 @@
-package com.joe.learn.akka;
+package com.joe.akka.lifecycle;
 
 import akka.actor.UntypedActor;
 import scala.Option;
